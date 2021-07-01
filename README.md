@@ -1,6 +1,6 @@
 # insta checker 🎗 .
 
-Install :
+- Install :
 
 <br/>
     `apt update`<br/>
