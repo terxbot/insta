@@ -3,7 +3,7 @@
 - Install :
 
 <br/>
-    `apt update` <br/>
+    ``apt update`` <br/>
 <br/>
     `apt upgrade`<br/>
 <br/>
